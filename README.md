@@ -42,7 +42,7 @@ Opacity-based screen transitions with easing
 
 🎥 Demo
 
-[Attach demo-video.mp4 here]
+The demo file has been uploaded
 
 🎯 Learning Outcome
 
@@ -55,3 +55,9 @@ Animation timing control
 State-based UI transitions
 
 Micro-interaction design principles
+
+Proropie link
+https://cloud.protopie.io/p/4f37d3a52a157112b8d42a5d?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1&handoff=true
+
+figma link
+https://www.figma.com/design/cEhu8qM3GYDDKA8JSuSHB9/Habit-flow--build-better-habits-app?node-id=0-1&t=Z6qlF7cG0zc3OY4b-1
